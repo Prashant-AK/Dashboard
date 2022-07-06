@@ -1,0 +1,10 @@
+.customBtn{
+    background-color: gray;
+    color:white;
+    border-color: transparent;
+
+}
+.customBtn:hover{
+    background-color: black;
+    border-color: grey;
+}

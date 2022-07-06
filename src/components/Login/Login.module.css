@@ -1,0 +1,22 @@
+.container {
+    /* Flex Properties */
+    margin-top: 15%;
+  }
+.customInput{
+    background-color: black !important;
+    color:white !important;
+    border: 2px;
+    border-color: white;
+    border-bottom: solid; 
+}
+.customBtn{
+    background-color: gray;
+    color:white;
+    border-color: transparent;
+    border-radius: 10%;
+    margin-left: 40%;
+}
+.customBtn:hover{
+    background-color: black;
+    border-color: grey;
+}

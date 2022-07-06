@@ -1,0 +1,9 @@
+.customTableStyle{
+    background-color: black !important;
+    color:white !important;
+    border: 1px solid grey;
+    border-radius: 3%;
+}
+.customTbodyStyle{
+    border-style: revert !important;
+}

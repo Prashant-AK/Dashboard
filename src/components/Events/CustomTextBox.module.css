@@ -1,0 +1,10 @@
+.customTextBoxStyle{
+    background-color: black !important;
+    color:white !important;
+    border: 1px solid grey;
+ 
+
+}
+.form-control::-webkit-input-placeholder {
+    color: white;
+  }
